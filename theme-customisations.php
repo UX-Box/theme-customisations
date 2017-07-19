@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Theme Customisations
+ * Plugin Name:       0 My Theme Customisations
  * Description:       A handy little plugin to contain your theme customisation snippets.
  * Plugin URI:        http://github.com/woothemes/theme-customisations
  * Version:           1.0.0
